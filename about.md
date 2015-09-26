@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a former CIvil Engineer who returned to university in 2013 to study Architecture
 
 ### More Information
 
